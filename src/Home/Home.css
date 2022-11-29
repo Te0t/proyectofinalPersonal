@@ -1,0 +1,7 @@
+.banner{
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/cinemaharley.appspot.com/o/Spotifybanner.jpg?alt=media&token=d8113d82-5c9d-4db8-8028-c00de5311bdf);
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+}
